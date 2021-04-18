@@ -4,4 +4,6 @@ html, body {
   width: 100%;
   height: auto;
   font-family: 'GothamRegular';
+
+  background-color: #888;
 }
