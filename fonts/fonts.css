@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'GothamRegular';
+  src: url('../fonts/GothamRegular.ttf');
+}
+
+@font-face {
+  font-family: 'GothamBold';
+  src: url('../fonts/GothamBold.ttf');
+}
+
+@font-face {
+  font-family: 'GothamBook';
+  src: url('../fonts/GothamBook.ttf');
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
