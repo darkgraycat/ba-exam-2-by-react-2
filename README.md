@@ -7,9 +7,8 @@
 ```
 Navbar
 Image
-IconedButton
-TextButton
-IconedText
-InputText
-HeadingText
+Button
+TextIconed
+TextInput
+TextHeading
 ```
