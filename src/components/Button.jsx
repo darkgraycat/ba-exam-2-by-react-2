@@ -11,15 +11,3 @@ const Button = ({ icon, children }) => {
 }
 
 export default Button
-
-/*
-<button style={{
-  width: size.split(' ')[0],
-  height: size.split(' ')[1],
-  color: color,
-  backgroundColor: "transparent",
-  border: `1px solid ${color}`,
-  borderRadius: radius,
-  cursor: "pointer"
-}}>{children}</button>
-*/

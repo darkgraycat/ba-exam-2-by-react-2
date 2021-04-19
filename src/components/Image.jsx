@@ -1,9 +1,15 @@
 import React from 'react'
+import style from '../css/Image.css'
 
-const Component = ({ children }) => {
+const Image = ({ url, width, height }) => {
   return (
-    <div>{children}</div>
+    <div style={{
+      backgroundImage: `url(${url})`,
+      width: width,
+      height: height
+    }} className={style.image}>
+    </div>
   )
 }
 
-export default Component
+export default Image

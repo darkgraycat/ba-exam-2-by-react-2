@@ -1,0 +1,10 @@
+.image {
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+@media (max-width: 768px) {
+  .image {
+    max-width: 100% !important;
+  }
+}
